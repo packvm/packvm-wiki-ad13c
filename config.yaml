@@ -64,7 +64,7 @@ params:
   footer:
     type: footer
     template: footer
-    content: "&copy; Stackbit-Libris. All rights reserved."
+    content: "&copy; ПАК-ВМ. All rights reserved."
     links:
     - type: action
       template: action
