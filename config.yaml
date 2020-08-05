@@ -72,7 +72,7 @@ params:
       url: https://www.stackbit.com
       style: link
       new_window: true
-    has_social: true
+    has_social: false
     social_links:
     - type: action
       template: action
