@@ -48,7 +48,7 @@ sections:
       style: link
       icon_class: ''
       new_window: false
-    title_url: ''
+    title_url: https://packvm-wiki.netlify.app/blog
     image: ''
   - type: grid_item
     template: grid_item
