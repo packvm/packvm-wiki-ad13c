@@ -68,8 +68,8 @@ params:
     links:
     - type: action
       template: action
-      label: Made with Stackbit
-      url: https://www.stackbit.com
+      label: ПАК-ВМ
+      url: https://pack-vm.com.ua/
       style: link
       new_window: true
     has_social: false
