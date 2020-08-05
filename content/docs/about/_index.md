@@ -1,13 +1,12 @@
 ---
-title: About
-excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+title: Правила внутреннего распорядка
+excerpt: Здесь можно узнать, как взять отпуск, больничный, порядок начисления премий.
 layout: docs
----
+weight: 
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
+---
+В этом разделе можно узнать, как взять отпуск, больничный, как начисляется премия и т. д.
 
 ***
 
-Here are the articles in this section:
+Статьи в этом разделе:
