@@ -38,13 +38,12 @@ sections:
     image: ''
   - type: grid_item
     template: grid_item
-    title: Blog
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    title: Новости
+    content: Здесь будут появляться новости для сотрудников ПАК-ВМ.
     actions:
     - type: action
       template: action
-      label: View Posts
+      label: Просмотреть новости
       url: "/blog"
       style: link
       icon_class: ''
