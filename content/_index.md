@@ -52,19 +52,17 @@ sections:
     image: ''
   - type: grid_item
     template: grid_item
-    title: Style Guides
-    content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
+    title: Правила внутреннего этикета
+    content: Здесь читаем о правилах поведения в офисе.
     actions:
     - type: action
       template: action
-      label: Learn More
+      label: Перейти
       url: "/style-guide"
       style: link
       icon_class: ''
       new_window: false
-    title_url: ''
+    title_url: https://packvm-wiki.netlify.app/style-guide
     image: ''
   title: ''
   subtitle: ''
