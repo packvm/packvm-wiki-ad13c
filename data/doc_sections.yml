@@ -1,7 +1,6 @@
 ---
 root_docs_path: "/docs"
 sections:
-- employee-contacts
 - about
 - getting-started
 - ui-components
