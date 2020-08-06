@@ -3,7 +3,7 @@ root_docs_path: "/docs"
 sections:
 - about
 - getting-started
-- employee-contacts
+- ui-components
 - manage-content
 - tools
 - faq
